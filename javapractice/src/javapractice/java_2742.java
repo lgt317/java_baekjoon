@@ -1,5 +1,7 @@
 package javapractice;
 import java.util.Scanner;
+
+
 public class java_2742 {
 
 	public static void main(String[] args) {
