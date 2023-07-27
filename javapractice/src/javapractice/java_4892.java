@@ -10,9 +10,8 @@ public class java_4892 {
 		//무한루프
 		while(true) {
 			int n = in.nextInt();
-		
 
-			//무한루프 종료
+		//무한루프 종료
 			if(n == 0) break;
 			
 			//n의 짝수 여부 조건문
