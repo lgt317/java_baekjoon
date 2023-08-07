@@ -18,6 +18,7 @@ public class java_14582 {
         int ulim = 0;
         int stl = 0;
         for(int i=0; i<9; i++) {
+        	
             ulim += a[i];
             stl += b[i];
             if(ulim > stl) {
