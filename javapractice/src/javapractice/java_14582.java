@@ -25,7 +25,7 @@ public class java_14582 {
                 System.out.println("Yes");
                 return;
             }
-           
+            ulim += a[i];
         }
         
         System.out.println("No");
